@@ -15,7 +15,7 @@ In this post, I am hoping to achieve two things:
 1. Give an introduction to Azure Storage Accounts, and more specifically, the Blob Storage service. I hope to describe how this service works and the somewhat confusing configuration settings that control anonymous access. 
 2. Detail how you may be able to abuse the "Reader" role to read sensitive information stored within Blob Storage.
 
-Before I dive into the Storage Accounts and Blob Storage, let's dig into the Azure Resource Manager(AzureRM) RBAC role, Reader.
+Before I dive into Storage Accounts and Blob Storage, let's dig into the Azure Resource Manager(AzureRM) RBAC role, Reader.
 
 ## The "Reader" Role
 
