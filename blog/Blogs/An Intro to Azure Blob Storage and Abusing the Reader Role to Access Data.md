@@ -10,7 +10,14 @@ nav_order: 1
 
 ### Update:
 
-I have released a forked version of the popular BlobHunter tool that can use the "Reader" role to identify misconfigured containers! https://github.com/Sol1dSn8keS3cur1ty/BlobHunter-Lite
+I have released a forked version of the popular BlobHunter tool that can use the "Reader" role to identify misconfigured containers! <https://github.com/Sol1dSn8keS3cur1ty/BlobHunter-Lite>
+
+### Credits:
+
+The majority of this knowledge was gained from this amazing book by David Okeyode and Karl Fosaaen -[Penetration Testing Azure for Ethical Hackers](https://www.packtpub.com/product/penetration-testing-azure-for-ethical-hackers/9781839212932). I highly recommend reading this book to learn more about Azure/Azure Active Directory, and how to perform penetration testing against those environments. 
+
+Additionally, various blog posts by  [SpectorOps](https://specterops.io/blog/?_sft_category=blog&_sf_s=Azure) and [NetSPI](https://www.netspi.com/blog/technical/cloud-penetration-testing/anonymously-enumerating-azure-file-resources/#:~:text=%E2%80%9C%20Storage%20Accounts%20%E2%80%9D%20are%20Microsoft%E2%80%99s%20way%20of,I%20would%20have%20netspiazure.core.windows.net%20assigned%20to%20the%20account.)
+are  absolute goldmines of information and I highly encourage giving them a read!
 
 ## Intro
 
